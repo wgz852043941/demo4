@@ -23,6 +23,8 @@ public Course(Integer cno, String cname) {
 public Course() {
 	super();
 }
-
+public String s1() {
+	return "666660";
+}
 
 }
